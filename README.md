@@ -18,11 +18,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
