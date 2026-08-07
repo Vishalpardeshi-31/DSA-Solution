@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
@@ -27,6 +28,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 ## Dynamic Programming
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
