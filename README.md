@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
@@ -79,5 +81,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
