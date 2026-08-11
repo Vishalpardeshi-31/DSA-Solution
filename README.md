@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
 ## Geometry
 |  |
@@ -81,6 +82,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
