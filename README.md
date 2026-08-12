@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
