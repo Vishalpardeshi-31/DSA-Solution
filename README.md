@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
+| [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 | [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
