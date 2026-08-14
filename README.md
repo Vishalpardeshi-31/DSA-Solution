@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
@@ -54,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 ## String
 |  |
