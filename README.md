@@ -30,6 +30,7 @@
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
@@ -67,6 +68,7 @@
 | [0058-length-of-last-word](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
 ## Geometry
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
