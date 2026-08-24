@@ -13,6 +13,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
