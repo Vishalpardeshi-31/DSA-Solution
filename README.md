@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0198-house-robber) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -99,9 +101,11 @@
 | [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 ## Greedy
@@ -116,4 +120,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
