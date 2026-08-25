@@ -14,12 +14,14 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3978-unique-middle-element](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
