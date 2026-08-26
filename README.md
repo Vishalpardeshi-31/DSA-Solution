@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -77,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
 ## Geometry
@@ -110,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
