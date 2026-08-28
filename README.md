@@ -21,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
@@ -37,6 +38,7 @@
 | [0002-add-two-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
@@ -76,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0125-valid-palindrome) |
