@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0485-max-consecutive-ones) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
@@ -120,6 +122,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 ## Greedy
@@ -138,6 +141,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0888-fair-candy-swap) |
 ## Trie
 |  |
 | ------- |
