@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
 ## Minimax
