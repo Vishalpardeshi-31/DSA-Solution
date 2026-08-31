@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0877-stone-game) |
