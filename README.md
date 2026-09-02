@@ -154,4 +154,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
