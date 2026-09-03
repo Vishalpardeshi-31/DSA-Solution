@@ -20,6 +20,7 @@
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3978-unique-middle-element](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
