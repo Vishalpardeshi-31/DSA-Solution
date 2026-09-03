@@ -1,7 +1,7 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int n = nums1.length;
-      int min = nums1[0];
+        int min = nums1[0];
         for (int i = 1; i < n; i++) {
             min = Math.min(min, nums1[i]);
         }
