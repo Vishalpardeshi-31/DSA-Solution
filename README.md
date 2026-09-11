@@ -18,6 +18,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3115-maximum-prime-difference](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3115-maximum-prime-difference) |
 | [3467-transform-array-by-parity](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -30,6 +31,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -64,6 +66,7 @@
 | [0050-powx-n](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,4 +171,8 @@
 | [0180-consecutive-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/0550-game-play-analysis-iv) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishalpardeshi-31/DSA-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
